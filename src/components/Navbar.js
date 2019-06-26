@@ -9,7 +9,7 @@ const Navbar = class extends React.Component {
      <div>
        <div className="tab-menu-container show-xs">
         <div className="tab-menu">
-          <div className="client-name">City of Lebanon</div>
+          <div className="client-name">Grayson Utilities Commission</div>
           <div className="btn-group btn-group-block">
             <Link className="btn pt-2" activeClassName="active" to="/">
               <Icon.AlertTriangle size={26}/>
@@ -22,16 +22,19 @@ const Navbar = class extends React.Component {
             <Link to="/" className="btn btn-link" title="Logo">
               <img src="/img/small-logo.png" alt="" />
             </Link>
-            <div className="btn btn-link"></div>
             <Link className="btn pt-2" activeClassName="active" to="/contact">
               <Icon.Phone size={26}/>
               <div>Contact</div>
             </Link>
+            <a className="btn pt-2" rel="noopener noreferrer" href="https://commercialpayments.com/eprocessing_integrations/appalachian/balance_inquiry.php" target="_blank">
+              <Icon.DollarSign size={26}/>
+              <div>Bill Pay</div>
+            </a>
           </div>
         </div>
       </div>
       <div className="container grid-xs hide-xs">
-        <div className="client-name">City of Lebanon</div>
+        <div className="client-name">Grayson Utilities Commission</div>
         <header className="navbar">
           <section className="navbar-section text-right">
             <Link className="btn btn-link" activeClassName="active" to="/">
@@ -47,10 +50,12 @@ const Navbar = class extends React.Component {
             </Link>
           </section>
           <section className="navbar-section">
-            <div className="btn btn-link"></div>
             <Link className="btn btn-link" activeClassName="active" to="/contact">
               Contact
             </Link>
+            <a className="btn btn-link" rel="noopener noreferrer" href="https://commercialpayments.com/eprocessing_integrations/appalachian/balance_inquiry.php" target="_blank">
+              Bill Pay&nbsp;<Icon.ExternalLink size={16}/>
+            </a>
           </section>
         </header>
       </div>

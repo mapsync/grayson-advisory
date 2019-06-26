@@ -1,65 +1,36 @@
 ---
 templateKey: contact-page
-name: City of Lebanon
-address: 240 W. Main St.
+name: Grayson Utilities Commission
+address: 671 South State Hwy 7
 mailing_address: P.O. Box 840
-city_state_zip: 'Lebanon, KY 40033'
-phone: 606-692-6272
-after_hours_phone: 270-692-2121
-fax: 606-692-4638
-website: https://lebanon.ky.gov
+city_state_zip: 'Grayson, KY 41143'
+phone: 606-474-7569
+after_hours_phone: 606-474-5731
+fax: 606-474-2662
+hours: Monday - Friday, 8:00 a.m. - 4:00 p.m.
+website: http://www.graysonutilities.com
 ---
-Gary D. Crenshaw, Mayor  
-Telephone: 270-692-9197
+Ramona Salyer, Commissioner Chairman
 
-Jerry Abell, City Council  
-Telephone: 270-402-7610
+Willis Kelley, Commissioner
 
-Larry Mattingly, City Council  
-Telephone: 270-699-1549
+John Brooks, Commissioner
 
-Kate Palagi, City Council  
-Telephone: 270-692-1611
+Bob James, Commissioner
 
-John R. Mattingly, City Council  
-Telephone: 502-294-0113
+Mayor George Steele, Commissioner
 
-James D. Richardson, City Council  
-Telephone: 270-692-3200
+Gerald W. Haney, Utilities Superintendent  
+Email: utilitysupt@graysonutilities.com
 
-Darin Spalding, City Council  
-Telephone: 270-699-2145
+Dinah Gilliam, Bookkeeper  
+Email: bookkeeper@graysonutilities.com
 
-John O. Thomas, City Administrator, Building Inspector &amp; Zoning  
-Telephone: 270-692-6272  
-Email: <a href="mailto:jthomas@lebanonky.org">jthomas@lebanonky.org</a>
+Harlena Huff, Secretary/Warehouse Clerk  
+Email: warehouseclerk@graysonutilities.com
 
-Nikki Wheatley, City Clerk/Treasurer  
-Telephone: 270-692-6272  
-Email: <a href="mailto:nblack@lebanonky.org">nblack@lebanonky.org</a>
-
-Wally Brady, Police Chief  
-Telephone: 270-692-2121  
-Email: <a href="mailto:wbrady@lebanonky.org">wbrady@lebanonky.org</a>
-
-Greg Young, Assistant Police Chief  
-Telephone: 270-692-2121  
-Email: <a href="mailto:gyoung@lebanonky.org">gyoung@lebanonky.org</a>
-
-Terry Bland, Public Works Director  
-Telephone: 270-692-4934  
-Email: <a href="mailto:publicworks101@gmail.com">publicworks101@gmail.com</a>
-
-Eddie Masterson, Wastewater Superintendent  
-Telephone: 270-692-6202  
-Email: <a href="mailto:emasterson@lebanonky.org">emasterson@lebanonky.org</a>
-
-Charlsie Garrett, Park Aquatics Director  
-Telephone: 270-692-9358  
-Email: <a href="mailto:charlsiegarrett@yahoo.com">charlsiegarrett@yahoo.com</a>
-
-Richard A. Mattingly, Fire Chief  
-Telephone: 270-692-6830  
-Email: <a href="mailto:fire_house@lebanonky.org">fire_house@lebanonky.org</a>
-
-City Council meetings are held the first Monday after the first Tuesday of each month at 7:00 p.m. at City Hall
+Tally Harris, Head Water Treatment Plant Operator  
+199 Water Plant Road  
+(606) 474-5731 Telephone  
+(606) 475-1524 Fax  
+Email: wtp@graysonutilities.com
