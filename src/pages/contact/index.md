@@ -21,16 +21,16 @@ Bob James, Commissioner
 Mayor George Steele, Commissioner
 
 Gerald W. Haney, Utilities Superintendent  
-Email: utilitysupt@graysonutilities.com
+Email: <a href="mailto:utilitysupt@graysonutilities.com">utilitysupt@graysonutilities.com</a>
 
 Dinah Gilliam, Bookkeeper  
-Email: bookkeeper@graysonutilities.com
+Email: <a href="mailto:bookkeeper@graysonutilities.com">bookkeeper@graysonutilities.com</a>
 
 Harlena Huff, Secretary/Warehouse Clerk  
-Email: warehouseclerk@graysonutilities.com
+Email: <a href="mailto:warehouseclerk@graysonutilities.com">warehouseclerk@graysonutilities.com</a>
 
 Tally Harris, Head Water Treatment Plant Operator  
 199 Water Plant Road  
-(606) 474-5731 Telephone  
-(606) 475-1524 Fax  
-Email: wtp@graysonutilities.com
+T: T: <a href="tel:1-606-474-5731">606-474-5731</a>   
+F: 606-475-1524  
+Email: <a href="mailto:wtp@graysonutilities.com">wtp@graysonutilities.com</a>
