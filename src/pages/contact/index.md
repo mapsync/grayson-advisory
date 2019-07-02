@@ -35,14 +35,14 @@ T: T: <a href="tel:1-606-474-5731">606-474-5731</a>
 F: 606-475-1524  
 Email: <a href="mailto:wtp@graysonutilities.com">wtp@graysonutilities.com</a>
 
-Mike Duncan, Head Wastewater Treatment Plant Operator
-691 East 5th Street
-T: T: <a href="tel:1-606-474-6840">606-474-6840</a>   
-F: 606-474-2378
+Mike Duncan, Head Wastewater Treatment Plant Operator  
+691 East 5th Street  
+T: <a href="tel:1-606-474-6840">606-474-6840</a>  
+F: 606-474-2378  
 Email: <a href="mailto:wwtp@graysonutilities.com">wwtp@graysonutilities.com</a>
 
-Scott Gilbert, Maintenance Foreman
-T: T: <a href="tel:1-606-474-6840">606-474-6840</a>   
+Scott Gilbert, Maintenance Foreman  
+T: <a href="tel:1-606-474-6840">606-474-6840</a>  
 Email: <a href="mailto:foreman@graysonutilities.com">foreman@graysonutilities.com</a>
 
 ##### Utility Commission Meeting
