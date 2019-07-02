@@ -45,14 +45,14 @@ Scott Gilbert, Maintenance Foreman
 T: T: <a href="tel:1-606-474-6840">606-474-6840</a>   
 Email: <a href="mailto:foreman@graysonutilities.com">foreman@graysonutilities.com</a>
 
-#### Utility Commission Meeting
+##### Utility Commission Meeting
 The Grayson Utilities Commission will hold their monthly meeting every 4th Friday at 12:00 PM at the William
 J. Lewis Utility Maintenance Building. As always, the public is invited to attend.
 
-#### Printable Forms (all forms are in PDF format)
-[ACH Debit Authorization Form](http://graysonutilities.com/files/34616354.pdf)
-[Application for New Utility Service](http://graysonutilities.com/files/109616131.pdf)
-[Application to Discontinue Service](http://graysonutilities.com/files/109616123.pdf)
-[Application to Start Utility Service](http://graysonutilities.com/files/128091634.pdf)
-[Water Leak Adjustment Form](http://graysonutilities.com/files/110077951.pdf)
+##### Printable Forms (all forms are in PDF format)
+[ACH Debit Authorization Form](http://graysonutilities.com/files/34616354.pdf)  
+[Application for New Utility Service](http://graysonutilities.com/files/109616131.pdf)  
+[Application to Discontinue Service](http://graysonutilities.com/files/109616123.pdf)  
+[Application to Start Utility Service](http://graysonutilities.com/files/128091634.pdf)  
+[Water Leak Adjustment Form](http://graysonutilities.com/files/110077951.pdf)  
 [Pool Adjustment Form](http://graysonutilities.com/files/110077534.pdf)
