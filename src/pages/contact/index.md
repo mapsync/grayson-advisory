@@ -34,3 +34,25 @@ Tally Harris, Head Water Treatment Plant Operator
 T: T: <a href="tel:1-606-474-5731">606-474-5731</a>   
 F: 606-475-1524  
 Email: <a href="mailto:wtp@graysonutilities.com">wtp@graysonutilities.com</a>
+
+Mike Duncan, Head Wastewater Treatment Plant Operator
+691 East 5th Street
+T: T: <a href="tel:1-606-474-6840">606-474-6840</a>   
+F: 606-474-2378
+Email: <a href="mailto:wwtp@graysonutilities.com">wwtp@graysonutilities.com</a>
+
+Scott Gilbert, Maintenance Foreman
+T: T: <a href="tel:1-606-474-6840">606-474-6840</a>   
+Email: <a href="mailto:foreman@graysonutilities.com">foreman@graysonutilities.com</a>
+
+#### Utility Commission Meeting
+The Grayson Utilities Commission will hold their monthly meeting every 4th Friday at 12:00 PM at the William
+J. Lewis Utility Maintenance Building. As always, the public is invited to attend.
+
+#### Printable Forms (all forms are in PDF format)
+[ACH Debit Authorization Form](http://graysonutilities.com/files/34616354.pdf)
+[Application for New Utility Service](http://graysonutilities.com/files/109616131.pdf)
+[Application to Discontinue Service](http://graysonutilities.com/files/109616123.pdf)
+[Application to Start Utility Service](http://graysonutilities.com/files/128091634.pdf)
+[Water Leak Adjustment Form](http://graysonutilities.com/files/110077951.pdf)
+[Pool Adjustment Form](http://graysonutilities.com/files/110077534.pdf)
