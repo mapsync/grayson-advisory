@@ -22,16 +22,6 @@ export const ContactPageTemplate = ({ content, contentComponent, name, address, 
         </div>
         <div className="card">
           <div className="card-header">
-            Mailing Address
-          </div>
-          <div className="card-body">
-            {name}<br />
-            {mailing_address}<br />
-            {city_state_zip}
-          </div>
-        </div>
-        <div className="card">
-          <div className="card-header">
             Phone
           </div>
           <div className="card-body">
