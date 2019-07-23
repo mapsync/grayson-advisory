@@ -25,6 +25,9 @@ Email: <a href="mailto:utilitysupt@graysonutilities.com">utilitysupt@graysonutil
 Dinah Gilliam, Bookkeeper\
 Email: <a href="mailto:bookkeeper@graysonutilities.com">bookkeeper@graysonutilities.com</a>
 
+Lisa Stafford, Billing Clerk\
+Email: <a href="mailto:billingclerk@graysonutilities.com">billingclerk@graysonutilities.com</a>
+
 Harlena Huff, Secretary/Warehouse Clerk\
 Email: <a href="mailto:warehouseclerk@graysonutilities.com">warehouseclerk@graysonutilities.com</a>
 
