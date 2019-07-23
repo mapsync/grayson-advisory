@@ -2,7 +2,7 @@
 templateKey: contact-page
 name: Grayson Utilities Commission
 address: 671 South State Hwy 7
-mailing_address: P.O. Box 840
+mailing_address: 671 South State Hwy 7
 city_state_zip: 'Grayson, KY 41143'
 phone: 606-474-7569
 after_hours_phone: 606-474-5731
