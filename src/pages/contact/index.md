@@ -9,7 +9,7 @@ after_hours_phone: 606-474-5731
 fax: 606-474-2662
 website: 'http://www.graysonutilities.com'
 ---
-Ramona Salyer, Commissioner Chairman 2019
+Ramona Salyer, Commissioner Chairman
 
 Willis Kelley, Commissioner
 
