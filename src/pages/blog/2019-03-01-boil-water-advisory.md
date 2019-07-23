@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Boil Water Advisory
 date: 2019-03-01T10:04:07.480Z
 draft: true
-description: A boil water advisory is in effect for the downtown area.
+description: A boil water advisory is in effect for the downtown
 ---
 A boil water advisory is in effect for the downtown area. To see the advisory area, use the link below.
 
