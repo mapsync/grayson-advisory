@@ -2,18 +2,12 @@
 templateKey: blog-post
 title: Grayson Utilities Commission New Advisory App
 date: 2019-07-24T15:02:06.689Z
-draft: true
+draft: false
 description: >-
   A new way to deliver boil water advisories, closings, maintenance repairs and
   outages, etc., to our customers.
 ---
-# \    
-
-
-
-
-
-# GRAYSON UTILITIES COMMISSION
+# \    GRAYSON UTILITIES COMMISSION
 
 # \    ADVISORY APP
 
@@ -21,7 +15,7 @@ description: >-
 
 # 
 
-# A few examples of the types of advisories we may be sending out are as follows: 
+# A few examples of the types of advisories we may be sending out are as follows:
 
 # •	Construction Activities
 
@@ -53,7 +47,7 @@ description: >-
 
 # •	Miscellaneous information, i.e. change in schedules
 
-#  To install the App, you DO NOT need to contact us, or complete a profile that includes any personal information.  Merely do the following:  
+# To install the App, you DO NOT need to contact us, or complete a profile that includes any personal information.  Merely do the following:
 
 # 
 
