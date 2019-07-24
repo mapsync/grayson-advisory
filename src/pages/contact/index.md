@@ -44,13 +44,12 @@ F: 606-474-2378\
 Email: <a href="mailto:wwtp@graysonutilities.com">wwtp@graysonutilities.com</a>
 
 Scott Gilbert, Maintenance Foreman\
-T: <a href="tel:1-606-474-6840">606-474-6840</a>\
+T: <a href="tel:1-606-474-7569">606-474-7569</a>\
 Email: <a href="mailto:foreman@graysonutilities.com">foreman@graysonutilities.com</a>
 
 ##### Utility Commission Meeting
 
-The Grayson Utilities Commission will hold their monthly meeting every 4th Friday at 12:00 PM at the William
-J. Lewis Utility Maintenance Building. As always, the public is invited to attend.
+The Grayson Utilities Commission will hold their monthly meeting every 4th Friday at 12:00 PM at the William J. Lewis Utility Maintenance Building. As always, the public is invited to attend.
 
 ##### Printable Forms (all forms are in PDF format)
 
