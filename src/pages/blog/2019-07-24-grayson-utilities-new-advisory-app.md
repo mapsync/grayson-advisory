@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Grayson Utilities New Advisory App
 date: 2019-07-24T15:25:12.644Z
-draft: true
+draft: false
 description: >-
   A new way to reach our customers with boil water advisories, closings,
   maintenance crew activities, outages, and etc.
@@ -10,8 +10,6 @@ description: >-
 # \    GRAYSON UTILITIES COMMISSION
 
 # \    ADVISORY APP
-
-
 
 To communicate more effectively and become more transparent with our customers/citizens, Grayson Utilities Commission has invested in designing and building our very own Advisory App and has connected with the Play & Apple Stores.  Our plans are to utilize this App to better communicate information to you, our customer.
 
