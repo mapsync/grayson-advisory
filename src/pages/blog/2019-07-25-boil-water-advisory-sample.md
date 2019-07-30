@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: BOIL WATER ADVISORY - SAMPLE
 date: 2019-07-25T15:53:16.428Z
-draft: false
+draft: true
 description: Boil Water Advisory
 ---
 	/map?layer=Advisory&feature=0
