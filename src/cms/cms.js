@@ -52,7 +52,7 @@ var NotificationControl = class Control extends React.Component {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({
         "form-name": "notification",
-        "account": "graysonutilities",
+        "account": "grayson",
         "title": document.getElementById("title-field-" + (id - 6)).value,
         "delivery": delivery,
         "priority": document.getElementById("priority-field-" + (id - 4)).getAttribute("aria-checked"),
