@@ -4,8 +4,8 @@ title: Grayson Utilities New Advisory App
 date: 2019-07-24T15:25:12.644Z
 draft: false
 description: >-
-  A new way to reach our customers with boil water advisories, closings,
-  maintenance crew activities, outages, and etc.
+  Welcome to our new App.  A new way to reach our customers with boil water
+  advisories, closings, maintenance crew activities, outages, and etc.
 ---
 # \    GRAYSON UTILITIES COMMISSION
 
