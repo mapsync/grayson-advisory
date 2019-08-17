@@ -6,4 +6,4 @@ description: ''
 ---
 CUSTOMERS AFFECTED ON Carroll Circle and  From 1683 US 60 East to 1711 US 60 EAST Until further Notice.
 
-[see map](/?layer=Advisory&feature=0)
+[see map](https://graysonutilities.geosync.cloud/map)
