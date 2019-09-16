@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
 title: Boil Water Advisory
-date: 2019-03-01T10:04:07.480Z
+date: 2019-09-16T09:04:07.480Z
 draft: true
-description: A boil water advisory is in effect for the downtown - THIS IS JUST A TEST
+description: A boil water advisory is in effect for North highway 1.
 ---
-A boil water advisory is in effect for the downtown area. To see the advisory area, use the link below.  THIS IS JUST A TEST
+A boil water advisory is in effect for North highway 1 from the Carter County Soccer Field north to the end of the line ending at the Carter/Greenup County line, including all side roads.  See the attached map for the map of the effected area.
 
 [See Map of Area](/map/?layer=Advisory&feature=0)
