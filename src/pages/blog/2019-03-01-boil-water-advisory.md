@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Boil Water Advisory
+title: Boil Water Advisory - LIFTED
 date: 2019-09-16T09:04:07.480Z
 draft: false
 description: A boil water advisory is in effect for North highway 1.
