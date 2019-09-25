@@ -11,4 +11,4 @@ description: Boil Water Advisory  S Carol Malone Blvd & Huff Street
 
 A Boil Water Advisory has been issued for Stampers Carpet Sales, Carter County Board of Education and 211 Huff Street, until further notice.  
 
-See map of area effected
+[See map of area effected](https://graysonutilities.geosync.cloud/map/?layer=Advisory&feature=0)
