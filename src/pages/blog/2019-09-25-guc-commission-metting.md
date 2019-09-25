@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: GUC Commission Metting
+title: GUC Commission Meeting
 date: 2019-09-25T15:14:17.642Z
 description: GUC Commission Meeting
 ---
