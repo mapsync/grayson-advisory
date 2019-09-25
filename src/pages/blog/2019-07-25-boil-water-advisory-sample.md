@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: 'BOIL WATER ADVISORY '
 date: 2019-07-25T15:53:16.428Z
-draft: true
-description: Boil Water Advisory Ruth Street & Huff Street
+draft: false
+description: Boil Water Advisory  S Carol Malone Blvd & Huff Street
 ---
 ```
 
