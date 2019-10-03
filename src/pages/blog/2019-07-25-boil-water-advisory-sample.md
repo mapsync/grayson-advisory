@@ -1,14 +1,19 @@
 ---
 templateKey: blog-post
-title: BOIL WATER ADVISORY LIFTED
-date: 2019-09-28T15:53:16.428Z
-draft: false
-description: Boil Water Advisory  S Carol Malone Blvd & Huff Street HAS BEEN LIFTED
+title: BOIL WATER ADVISORY
+date: 2019-10-03T15:53:16.428Z
+draft: true
+description: |
+  A Boil Water Advisory has been issued for Hugh St
 ---
 ```
 
 ```
 
-A Boil Water Advisory has been issued for Stampers Carpet Sales, Carter County Board of Education and 211 Huff Street, until further notice.  HAS BEEN LIFTED 9/28/19
+A Boil Water Advisory has been issued for Grayson Utilities customers on McDavid Blvd, Hugh St, and Barrett St, until further notice. 
+
+This includes Carter Nursing and Rehab, Logan Trace Apts. and Poplar Plains Apts.
+
+
 
 [See map of area effected](https://graysonutilities.geosync.cloud/map/?layer=Advisory&feature=0)
