@@ -4,7 +4,7 @@ title: Boil Water Advisory HAS BEEN LIFTED
 date: 2019-10-07T15:53:16.428Z
 draft: false
 description: |
-  A Boil Water Advisory has been issued for Hugh St
+  A Boil Water Advisory has been issued for Hugh St HAS BEEN LIFTED
 ---
 ```
 
