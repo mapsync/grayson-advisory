@@ -11,4 +11,4 @@ description: A Boil Water Advisory has been issued for East US 60 starting at Ta
 
 A Boil Water Advisory has been issued for US 60 East from and including Tark Hill Rd, to the end of the line including Chestnut Lane and Lilac Lane.
 
-[See map of area effected](/map/?layer=Advisory&feature=1)
+[See map of area effected](<	/map/?layer=Advisory&feature=1>)
