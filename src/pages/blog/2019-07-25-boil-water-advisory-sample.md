@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Boil Water Advisory Has Been Lifted
 date: 2019-10-11T15:53:16.428Z
-draft: false
+draft: true
 description: |-
   A Boil Water Advisory has been issued for East US 60 starting at Tark Hill.
 
