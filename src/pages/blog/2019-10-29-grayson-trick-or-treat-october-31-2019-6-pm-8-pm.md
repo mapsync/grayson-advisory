@@ -6,4 +6,6 @@ draft: false
 description: |
   Grayson Trick or Treat is scheduled for October 31, 2019 6 pm - 8 pm
 ---
+![](/img/yikkdpqmt.jpg)
+
 The city of Grayson has scheduled Trick or Treat for October 31, 2019 6 pm - 8 pm.
