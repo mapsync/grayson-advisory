@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Grayson Trick or Treat, October 31, 2019 6 pm - 8 pm'
-date: 2019-11-01T15:00:00.000Z
+date: 2019-10-29T15:00:00.000Z
 draft: true
 description: |
   Grayson Trick or Treat is scheduled for October 31, 2019 6 pm - 8 pm
