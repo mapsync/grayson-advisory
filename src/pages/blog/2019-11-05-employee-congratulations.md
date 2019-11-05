@@ -2,7 +2,9 @@
 templateKey: blog-post
 title: Employee Congratulations!
 date: 2019-11-05T14:54:43.932Z
-description: Education pays off with congratulations going out to our employees.
+description: >-
+  Striving for excellence in the production of your drinking water, we give
+  congratulations to our employees on their achievements.
 ---
 For the month of October we want to give a big Congratulations to the following employees for their achievements:
 
