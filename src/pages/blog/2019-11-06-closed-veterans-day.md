@@ -7,6 +7,6 @@ description: >-
   Grayson Utilities office will be closed 11/11/19 in observance of Veterans
   Day.
 ---
-In observance of Vetrans Day Grayson Utilities office will be closed 11/11/19.
+In observance of Veterans Day Grayson Utilities office will be closed 11/11/19.
 
 ![](/img/veteran-s-day.jpg)
