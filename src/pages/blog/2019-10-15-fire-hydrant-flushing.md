@@ -7,7 +7,7 @@ description: Hydrant Flushing
 ---
 GUC personnel will be flushing for the remainder of October. 
 
-GUC customers in the immediate vicinity of the work may experience temporary. discoloration of their water caused by sedimentation being broken loose from the water lines. This discoloration does not affect the safety of the water and should be clear within 2-3 hours of the work being performed.
+GUC customers in the immediate vicinity of the work may experience temporary discoloration of their water caused by sedimentation being broken loose from the water lines. This discoloration does not affect the safety of the water and should be clear within 2-3 hours of the work being performed.
 
 It is advised that NO WASHING of clothes or other water sensitive operations be performed until the water clears completely.  Additionally, it is also recommended that you limit or avoid using hot water and allow a cold water faucet to run a few minutes before using.
 
