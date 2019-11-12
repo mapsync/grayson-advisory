@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Closed Veterans Day
 date: 2019-11-06T16:34:32.405Z
-draft: false
+draft: true
 description: >-
   Grayson Utilities office will be closed 11/11/19 in observance of Veterans
   Day.
