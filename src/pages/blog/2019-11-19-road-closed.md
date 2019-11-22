@@ -1,7 +1,8 @@
 ---
 templateKey: blog-post
 title: ROAD CLOSED!!
-date: 2019-11-19T18:55:08.454Z
+date: 2019-11-22T18:55:08.454Z
+draft: true
 description: Sewer Rehab Project is underway
 ---
 Due to the sewer rehab work being done, Steve O'Pell Construction will have a section of Landsdowne Avenue closed between College Hill Drive and Shady Lane, starting 7:00 am Wednesday, November 20, 2019 through Thursday, November 21, 2019.  We hope to have the road opened back up by late Thursday evening.
