@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Office closed for Thanksgiving!
 date: 2019-11-22T14:27:42.198Z
+draft: false
 description: Office Closing for Thanksgiving!
 ---
 **This office will be closing at 12:00 Noon on Wednesday, November 27th, and will be closed on Thursday and Friday, November 28th and 29th in observance of Thanksgiving!  **
