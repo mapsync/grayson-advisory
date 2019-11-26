@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: WATER OFF AND ROAD POSSIBLY CLOSED!!
-date: 2019-11-25T15:00:00.000Z
+title: Sewer Utility rehab to continue this week on Shady Lane
+date: 2019-11-26T16:15:00.000Z
 draft: false
 description: Sewer Rehab Project is underway
 ---
-Due to the sewer rehab work being done by Steve O'Pell and Unger Construction, the water will be off for a while today and they could possibly have a section of Shady Lane closed today.  If they do close it, the road will only be closed off for a time today and should be opened back up by this evening.
+Due to the sewer rehab work being done by Steve O'Pell Construction, they are next to Joyce Rice house on Shady Lane today and will be working towards Maple Street in the grassy areas for this week until Thanksgiving.  They _**will not**_ be working Thursday or Friday this week.
 
 Watch this app and our web site to stay informed. 
 
