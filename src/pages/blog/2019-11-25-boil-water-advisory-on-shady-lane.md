@@ -5,7 +5,7 @@ date: 2019-12-02T15:20:25.893Z
 draft: false
 description: Boil Water Advisory
 tags:
-  - map?layer=Advisory&feature=2
+  - ''
 ---
 A Boil Water Advisory has been issued for Grayson Utilities customers on Maplewood Dr, Malone Lane from the Harold Johnson house on to and including the Malone Funeral Home, North Court St, and Shady Lane, until further notice. 
 
