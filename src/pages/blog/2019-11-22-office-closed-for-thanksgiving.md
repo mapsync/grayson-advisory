@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Office closed for Thanksgiving!
-date: 2019-11-22T14:27:42.198Z
+date: 2019-12-02T16:05:42.198Z
 draft: true
 description: Office Closing for Thanksgiving!
 ---
