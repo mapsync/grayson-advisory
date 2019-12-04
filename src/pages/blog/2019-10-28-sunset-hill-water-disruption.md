@@ -1,9 +1,11 @@
 ---
 templateKey: blog-post
-title: 'Malone Lane, Shady Lane, N Court St, and Maplewood Dr water OUTAGE!'
+title: ' WATER OUTAGE!'
 date: 2019-12-04T19:15:00.000Z
 draft: false
-description: Sewer Rehab Project causing water outage
+description: >-
+  Sewer Rehab Project causing water outage for Malone Lane, Shady Lane, N Court
+  St, and Maplewood Dr
 tags:
   - 'https://graysonutilities.geosync.cloud/map/'
 ---
