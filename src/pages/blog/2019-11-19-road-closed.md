@@ -7,10 +7,10 @@ date: 2019-12-03T16:09:00.000Z
 draft: false
 description: Sewer Rehab Project is underway
 ---
-Due to the sewer rehab work being done by Steve O'Pell Construction, they are next to Joyce Rice house on Shady Lane today and will be working also on Maplewood Drive and Malone Lane in the grassy areas for this week.  The water will be off again today, Tuesday, 12/3/19, for these areas, hopefully to be back on by 1:00 pm, but could be off longer.  You are still on a boil water advisory.  We will notify you throgh this app and radio when it gets lifted.
+Due to the sewer rehab work being done by Steve O'Pell Construction, they are next to Joyce Rice house on Shady Lane today and will be working towards Maplewood Drive and Malone Lane in the grassy areas for this week.  There are no scheduled outages at this time, although it is possible the water may need to go off again.  We will keep you informed here on this site.   
 
 Thank you for your patience as we are in the construction phase of the sewer rehab project. 
 
-Watch this app and our web site to stay informed of work areas, road closings, outages and boil waters. 
+Watch this app and our web site to stay informed of work areas, road closings, outages and boil waters even after this project is finished. 
 
 For any questions or concerns, call the Grayson Utilities office at 606-474-7569.
