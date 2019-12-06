@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Boil Water Advisory on Shady Lane, Maplewood Dr, Malone Lane, and N. Court St'
 date: 2019-12-02T15:20:25.893Z
-draft: false
+draft: true
 description: Boil Water Advisory
 tags:
   - ''
