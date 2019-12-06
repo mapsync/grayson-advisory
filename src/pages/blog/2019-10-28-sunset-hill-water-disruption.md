@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: ' WATER OUTAGE!'
 date: 2019-12-04T19:15:00.000Z
-draft: false
+draft: true
 description: >-
   Sewer Rehab Project - water outage now for Malone Lane, Shady Lane, N Court
   St, and Maplewood Dr
