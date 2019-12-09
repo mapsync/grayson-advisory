@@ -7,3 +7,5 @@ description: 'Boil Water Advisory for Poplar Heights, Maple St, Hickory St, and 
 There is a boil water advisory for Poplar Heights, Maple St, Hickory St, and Chestnut St, until further notice.
 
 If you have any questions, call the office at 606-474-7569 or the Water Treatment Plant at 606-474-5731.
+
+[See area map](https://graysonutilities.geosync.cloud/map)
