@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Boil Water Advisory HAS BEEN LIFTED
 date: 2019-12-11T13:35:34.009Z
+draft: true
 description: |-
   Boil Water Advisory for Poplar Heights, Maple St, Hickory St, and Chesnut St 
 
