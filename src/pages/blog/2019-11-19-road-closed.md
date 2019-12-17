@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: >-
-  Sewer Utility rehab delayed due to weather but will continue on Shady Lane and
-  Maplewood Dr. 
+title: 'Sewer Utility rehab delayed due to weather '
 date: 2019-12-17T16:08:00.000Z
 draft: false
-description: Sewer Rehab Project is underway
+description: >-
+  Sewer Rehab Project is underway and will continue as weather permits on Shady
+  Lane and Maplewood Dr.
 ---
 Due to the sewer rehab work being done by Steve O'Pell Construction, they are still next to Joyce Rice house on Shady Lane and will mainly be working on Maplewood Drive this week weather permitting.  They will be going down the center of the road and working on the side of the road putting in a drain tile.  The road is going to be closed for the biggest part of the time they are in there.  
 
