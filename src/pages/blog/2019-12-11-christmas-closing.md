@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: ' Christmas Closing'
-date: 2019-12-11T14:28:18.719Z
-draft: true
+date: 2019-12-20T14:49:18.719Z
+draft: false
 description: Christmas Holiday Hours
 ---
 ![](/img/christian-merry-christmas-clipart-15-900x900.png)
