@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Boil Water Advisory '
 date: 2019-11-01T13:23:00.000Z
-draft: true
+draft: false
 description: >-
   The Boil Water Advisory has been issued for East US 60 from the bridge by and
   including Raider Mart to Eddie Lucas Shop.
