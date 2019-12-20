@@ -1,17 +1,18 @@
 ---
 templateKey: blog-post
 title: 'Boil Water Advisory '
-date: 2019-11-27T16:53:16.428Z
+date: 2019-11-01T13:23:00.000Z
 draft: true
-description: |+
-  The Boil Water Advisory has been issued for East US 60 starting at Tark Hill.
+description: >-
+  The Boil Water Advisory has been issued for East US 60 from the bridge by and
+  including Raider Mart to Eddie Lucas Shop.
 ---
 ```
 
 ```
 
-A Boil Water Advisory has been issued for US 60 East from and including Tark Hill Rd, to the end of the line including Chestnut Lane and Lilac Lane.
+A Boil Water Advisory has been issued for US 60 East from and including the bridge by and including Raider Mart to Eddie Lucas Shop.
 
-[See map of area effected](<	/map/?layer=Advisory&feature=1>)
+[See map of area effected](https://graysonutilities.geosync.cloud/map/)
 
-****
+- - -
