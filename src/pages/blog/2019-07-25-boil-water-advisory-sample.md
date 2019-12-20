@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Boil Water Advisory '
-date: 2019-11-01T13:23:00.000Z
+date: 2019-12-20T14:23:00.000Z
 draft: false
 description: >-
   The Boil Water Advisory has been issued for East US 60 from the bridge by and
