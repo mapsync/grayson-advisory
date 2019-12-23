@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Fire Hydrant Flushing
 date: 2019-10-15T13:31:39.860Z
-draft: true
+draft: false
 description: Hydrant Flushing
 ---
 GUC personnel will be flushing for the remainder of October. 
