@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: 'Sewer Utility rehab delayed due to weather '
-date: 2019-12-17T16:08:00.000Z
-draft: false
+date: 2019-12-26T14:03:00.000Z
+draft: true
 description: >-
   Sewer Rehab Project is underway and will continue as weather permits on Shady
   Lane and Maplewood Dr.
