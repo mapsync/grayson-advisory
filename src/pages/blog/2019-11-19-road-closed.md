@@ -3,9 +3,7 @@ templateKey: blog-post
 title: 'Sewer Utility rehab '
 date: 2020-01-09T14:40:00.000Z
 draft: false
-description: >-
-  Sewer Rehab Project is underway and will continue on Malone Lane hopefully to
-  be moving onto Hall St
+description: Sewer Rehab Project is underway and will be on Hall Street Thursday and Friday
 ---
 The contractors are moving right along.  They are working on Hall St today, 1/9/2020 and tomorrow, 1/10/2020 and hope to be moving back onto Malone Lane next week working towards 2nd Street.  Although there are no scheduled road closings, if you find yourself blocked in and need to get out or in, please call the office at 606-474-7569 for assistance.    
 
