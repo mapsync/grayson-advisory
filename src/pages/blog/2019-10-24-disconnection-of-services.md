@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Disconnection of Services
-date: 2019-12-26T19:32:24.427Z
+date: 2020-02-19T17:50:00.000Z
 draft: true
 description: Remember the 24th starts disconnection of unpaid services.
 ---
