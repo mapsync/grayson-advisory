@@ -2,10 +2,10 @@
 templateKey: blog-post
 title: Sewer Utility rehab Malone Lane area
 date: 2020-03-05T14:40:00.000Z
-draft: true
+draft: false
 description: Sewer Rehab Project THEY ARE COMING BACK!!
 ---
-The contractors have stopped work for right now while some mandatory testing of the lines are being done, which takes approximately two weeks.  They are NOT finished, so don't panic if you have a mess in your yard or in the road.  They worked steadilly, making there way through the area, and should be finished by the end of March as planned, foreseeing any problems.  
+The contractors have stopped work for right now while some mandatory testing of the lines are being done, which takes approximately two weeks.  They are NOT finished, so don't panic if you have a mess in your yard or in the road.  They worked steadily, making their way through the area, and should be finished by the end of March as planned, foreseeing any problems.  
 
 Another question that has come up regarding yard and road repairs:  The contractors will be repairing any and all yards they have damaged, the sewer clean-outs sticking up in your yard will be cut off at ground level and a concrete collar placed around it, and the roads that got damaged are going to be blacktopped.  
 
