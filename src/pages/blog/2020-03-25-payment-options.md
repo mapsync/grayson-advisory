@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Payment Options
 date: 2020-03-25T13:27:33.164Z
-draft: true
+draft: false
 description: >-
   Payments can still be made through the drive thru at our office.  We encourage
   other options of payment, such as ACH, online (credit card), or using your
