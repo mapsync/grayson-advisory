@@ -10,9 +10,9 @@ description: >-
 ---
 During the current pandemic, payments can still be made through the drive thru at our office.  We encourage other options of payment, such as ACH, online (credit card), or using your bank's online bill pay service.
 
-To sign up for ACH, there is a form on the back of the bill or on our website www.graysonutilites.com. There is a fillable form on the website, that can be e-mailed to us or printed and dropped at the window or in the drop box.  
+To sign up for ACH, there is a form on the back of the bill or on our website www.graysonutilites.com. There is a fillable form on the website, that can be e-mailed to us or printed and dropped at the window or in the drop box.  There is no fee for ACH.
 
-There is a link on our App to pay by credit card.  This is also available at our website.
+There is a link on our App to pay by credit card.  This is also available at our website. There is a $1.50 for credit cards.
 
 Most banks offer a bill pay service online.  
 
