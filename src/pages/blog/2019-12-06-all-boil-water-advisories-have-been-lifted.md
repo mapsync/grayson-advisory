@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: All Boil Water Advisories HAVE BEEN LIFTED
 date: 2020-03-19T15:19:00.000Z
-draft: false
+draft: true
 description: All Boil Water Advisories HAVE BEEN LIFTED!
 ---
 There are currently no Boil Water Advisories in effect at this time!  
