@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: Payment Options
-date: 2020-03-30T15:49:29.968Z
-description: 'Payment options '
+date: 2020-03-30T15:58:32.906Z
 ---
 Grayson Utilities Commission wants to encourage our customers to make your payment with visiting our office if possible.  the following resources are available.
 
