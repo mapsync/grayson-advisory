@@ -3,11 +3,11 @@ templateKey: blog-post
 title: Payment Options
 date: 2020-03-30T15:58:32.906Z
 ---
-Grayson Utilities Commission wants to encourage our customers to make your payment with visiting our office if possible.  the following resources are available.
+Grayson Utilities Commission wants to encourage our customers to make your payment without visiting our office if possible.  the following resources are available.
 
 **Call Customer Service at 606-474-7569 during business hours 8-4 (Monday-Friday) to pay with debit/credit card.  NO DEBIT/CREDIT CARD PAYMENTS WILL BE ACCEPTED IN THE DRIVE-THRU.**
 
-**Mail in payments.  For you convenience and envelope is provided in your monthly bill.**
+**Mail in payments.  For you convenience an envelope is provided in your monthly bill.**
 
 **Leave a payment in our on-site drop box 24/7.**
 
