@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Boil Water Advisory
 date: 2020-04-02T16:15:05.677Z
-draft: false
+draft: true
 description: Boil Water Advisory for Wilson Creek Road.
 ---
 A Boil Water Advisory has been issued for Grayson Utilities customers on Wilson Creek Rd from 2128, Clayton Kouns residence, to the end of the line just before I-64, including all side roads, until further notice. 
