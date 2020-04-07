@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Boil Water Advisory
 date: 2020-04-01T13:40:28.064Z
-draft: false
+draft: true
 description: >
   A Boil Water Advisory has been issued for Indian Hills, and all customers on
   Blackfoot Lane, Cherokee Dr. Bald Eagle Dr, and Cloverleaf Trailer Park, until
