@@ -8,4 +8,4 @@ description: >-
   Thank you to James Bevins, of KY Division of Water for distributing the
   sanitizer.
 ---
-Thank you Buffalo Trace Distillery of Frankfort, Ky for making and donating hand sanitizer for our water and waste water plants. Thank you to James Bevins, of KY Division of Water for distributing the sanitizer. #TeamKentucky
+Thank you Buffalo Trace Distillery of Frankfort, Ky for making and donating hand sanitizer for our water and waste water plants. Thank you to James Bevins, of KY Division of Water, for distributing the sanitizer. #TeamKentucky
